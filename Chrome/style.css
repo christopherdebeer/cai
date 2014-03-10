@@ -1,0 +1,19 @@
+.coin-address {
+	position: relative;
+}
+.coin-address .tip {
+	font-size: 14px;
+	display: none;
+	font-weight: normal;
+	position: absolute;
+	padding: 1em;
+	top: -6em;
+	width: 12em;
+	background-color: white;
+	border-radius: 0.6em;
+	border: 2px solid black;
+	left: 30%;
+}
+.coin-address:hover .tip {
+	display: block;
+}

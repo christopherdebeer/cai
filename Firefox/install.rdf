@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>{6f6c9952-d6f1-4f8f-9d6e-43ff01ce77bc}</em:id>
+		<em:name>Coin Address Inspector</em:name>
+		<em:version>0.2</em:version>
+		<em:description/>
+		<em:creator>Christopher de Beer</em:creator>
+		<em:homepageURL>http://0circle.co.uk/cai</em:homepageURL>
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>2.0</em:minVersion>
+				<em:maxVersion>31.0</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+	</Description>
+</RDF>
