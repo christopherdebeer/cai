@@ -41,6 +41,8 @@
 			var content = $el.text()
 			var addr = content.match( addressRegex )[0]
 			var parent = el.parentNode
+			if (parent.tagName === 'STYLE' || parent.tagName === 'SCRIPT' ) return;
+			
 			var replacement = content.replace( addressRegex, template )
 			var newEl = jQuery('<span />').html( replacement )[0]
 			parent.replaceChild( newEl, el )

@@ -1,7 +1,7 @@
 {
   "name": "Coin Address Inspector",
   "description": "Cryptocoin address information.",
-  "version": "0.4",
+  "version": "0.5",
   "icons": { 
       "16": "icon16.png",
       "48": "icon48.png",
