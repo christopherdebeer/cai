@@ -3,7 +3,7 @@
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>{6f6c9952-d6f1-4f8f-9d6e-43ff01ce77bc}</em:id>
 		<em:name>Coin Address Inspector</em:name>
-		<em:version>0.2</em:version>
+		<em:version>0.4</em:version>
 		<em:description/>
 		<em:creator>Christopher de Beer</em:creator>
 		<em:homepageURL>http://0circle.co.uk/cai</em:homepageURL>
